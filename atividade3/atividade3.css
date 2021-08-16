@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    background-color: green;
+    color: white;
+}
+#bgimg{
+    background-image: url(https://i.pinimg.com/originals/e8/c9/df/e8c9df3391c56187e8ebb909f33da143.jpg);
+    background-repeat: no-repeat;
+    background-position:bottom right;
+    background-attachment: fixed;
+}
